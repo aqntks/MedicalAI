@@ -1,2 +1,2 @@
 # MedicalAI
-MedicalAI
+MedicalAI study
